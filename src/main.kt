@@ -25,4 +25,3 @@ fun main() {
     println("Address with shortest street name ${shortNameStreet.postcode}, ${shortNameStreet.city}, street. ${shortNameStreet.street}, h. ${shortNameStreet.houseNumber}.")
     println("Address with longest street name ${longNameStreet.postcode}, ${longNameStreet.city}, street. ${longNameStreet.street}, h. ${longNameStreet.houseNumber}.")
 }
-//
